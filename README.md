@@ -126,6 +126,10 @@ I'm a full-stack engineer based in the DC Metro Area, specializing in building s
   <img src="https://github-readme-stats-xi-one-12.vercel.app/api/top-langs/?username=KoryJCampbell&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" alt="Top Languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoryJCampbell&theme=gruvbox&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
 ---
 
 <p align="center">
