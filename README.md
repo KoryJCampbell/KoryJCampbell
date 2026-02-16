@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kory Campbell</h1>
+<h1 align="center">Hey, I'm Kory J. Campbell</h1>
 
 <p align="center">
   <strong>Senior Software Engineer / Lead</strong> &nbsp;|&nbsp; 10+ Years &nbsp;|&nbsp; TS/SCI Cleared
