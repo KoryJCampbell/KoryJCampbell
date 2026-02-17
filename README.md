@@ -18,6 +18,7 @@
 I'm a full-stack engineer based in the DC Metro Area, specializing in building scalable applications for federal government clients. Currently leading development of mission-critical internal applications at **Accenture**.
 
 - Building **LegacyBridge** — an API wrapper platform for government legacy systems
+- Shipped **[ModelCard CLI](https://github.com/KoryJCampbell/modelcard)** — a NIST AI RMF model card generator for federal AI compliance
 - Previously delivered at **Booz Allen Hamilton**, **Northstrat**, **Deloitte**, **Syntelic**, and **Bytecubed/U.Group**
 - B.S. Quantitative Analysis, **Florida A&M University**
 
@@ -113,6 +114,19 @@ I'm a full-stack engineer based in the DC Metro Area, specializing in building s
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KoryJCampbell/modelcard">ModelCard CLI</a></h3>
+      <p>NIST AI RMF Model Card Generator for federal AI systems. Interactive prompts, AI-assisted drafting, multi-format output, and automated traceability matrix.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/NIST_AI_RMF-002868?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
